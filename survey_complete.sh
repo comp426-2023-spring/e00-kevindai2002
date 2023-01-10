@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE= 974627232
+EXAMCODE=mischevous spider skateboard jajangmyeon 125640
 
 echo ${EXAMCODE}
